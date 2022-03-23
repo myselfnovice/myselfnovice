@@ -1,6 +1,7 @@
 <p align="center"><a href="portfolio site"><img width="80%" src="./assets/header.PNG" /></a></p>
-</br>
+
 <p align="center"><img width="80%" height="10%" src="./assets/line.PNG" /></p>
+
 > I am a passionate and wants to be a good full stack developer
 
 About me
