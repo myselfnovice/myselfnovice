@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hello ! I’m Mohammed Saeed<img src="https://raw.githubusercontent.com/danndigital/debbie-portfolio-2021/28bef52c5fec2ddbbcd1462246f081213cec2582/public/images/sparkle.svg" width="35px" alt="sparkle" /></h1>
+
+<h1 align="center">![MySelf](https://user-images.githubusercontent.com/73681942/159702255-05474f9a-9628-4ec4-ad2f-872e4eac6094.JPG)</h1>
+
+<p align="center"><a href="portfolio site"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
 
 <!--
 **myselfnovice/myselfnovice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
