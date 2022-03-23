@@ -1,7 +1,11 @@
 <p align="center"><a href="portfolio site"><img width="80%" src="./assets/header.PNG" /></a></p>
-
+</br>
 <p align="center"><img width="80%" height="10%" src="./assets/line.PNG" /></p>
+> I am a passionate and wants to be a good full stack developer
 
+About me
+- 🌱 I’m currently learning MERN Stack and Java.
+- 📫 You can connect with me on [Twitter](https://www.twitter.com/Hey_Novice) and [LinkedIn](https://www.linkedin.com/in/mohdsaeed).
 <!--
 **myselfnovice/myselfnovice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
