@@ -1,5 +1,7 @@
 <p align="center"><a href="portfolio site"><img width="80%" src="./assets/header.PNG" /></a></p>
 
+<p align="center"><img width="100%" src="./assets/fade_line.svg" /></p>
+
 <!--
 **myselfnovice/myselfnovice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
