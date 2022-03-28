@@ -33,7 +33,7 @@
 <br>
 
 ## Top Repositories
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myselfnovice&repo=Enquiry-Bot)](https://github.com/myselfnovice/Enquiry-Bot)
 
 ## Recent ...
 
