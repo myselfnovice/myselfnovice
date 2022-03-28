@@ -25,10 +25,11 @@
 
 
 ## Statistics
-| <a href="https://github.com/myselnovice/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=myselfnovice&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MySelf's github stats" /></a> | <a href="https://github.com/myselfnovice/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfnovice&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/myselnovice/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=myselfnovice&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MySelf's github stats" /></a> 
+| <a href="https://github.com/myselfnovice/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfnovice&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-< p align= "center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=myselfnovice)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=myselfnovice)](https://git.io/streak-stats)
 
 <br>
 
